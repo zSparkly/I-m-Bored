@@ -1,0 +1,1809 @@
+fileFormatVersion: 2
+guid: 5026141b60cba17419376939cac3c159
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: school floor and wall_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 460
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06319a7fb333a444a91102f07ec9139
+      internalID: -1399915913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 468
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d263964b791f3d64f800e4458969096c
+      internalID: 1772062381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 460
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baba71d6eb80f9740a8fc0bb267f2fbf
+      internalID: 880852667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 467
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92975b7469703e24ead270cc11f6c368
+      internalID: 322082020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 460
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4b1fbee8ed15e489bbe115bdbcd483
+      internalID: 284993586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 467
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9436f3dc312624088ea759f62231fe
+      internalID: 1581818694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 460
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83000c034787a4a4999c93ea5fe9f8cc
+      internalID: -1227698028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 468
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee99f481cb896104d917bb883b695eb5
+      internalID: -881259776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_20
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 459
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24ae88d536b228449a7da431ad9b7bb
+      internalID: 573884108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 444
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c985ae2052bfcbb4c9950929b117fffa
+      internalID: 406431374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 443
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87943c8700d212547bdffbada1ded2a0
+      internalID: -1422648615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 444
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1e76894ef1b6949a68be3ee72ff363
+      internalID: 1042037366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 460
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e54b320b5f920448799b0681ca2852
+      internalID: -224086812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 444
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf1239303907f841a4b402cb7be456a
+      internalID: -2124688417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 443
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852f118f76682d34b841396c62e63f0c
+      internalID: 462398878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_32
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 444
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a964bf0f6e210664f8de54d59a3bbd42
+      internalID: -1205607930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 431
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ebcbe25778b13459c924a5a97232ff
+      internalID: 1412244942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 431
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd2ac8b94d2b5448aec0dd2029527b4
+      internalID: 1877522044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_38
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 431
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1df8dad605dc534485b7a3cb7ce892b
+      internalID: 1386212175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 431
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81788b7d0327b454ea62f762c3af5c19
+      internalID: -593422030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_40
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 431
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6162b5317e06034e86099402f5a65d6
+      internalID: -1662106557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_41
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 431
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b9219930fbb5f4485cdbbb97dd942b
+      internalID: -1632506046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 431
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6132508b202809f4f8cf1cf1dd78dea8
+      internalID: 1906313690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 431
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7efd42e3a641847b0026b4d30f7970
+      internalID: -1288004006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_44
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 431
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76bfa690e002304ab2d10ff3f5fb83a
+      internalID: -1658577897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 412
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49effe662c05e24685dee3ab6de6c92
+      internalID: -1181819952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 419
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0be38a10e09d4f4d9d6ce1e2ef1b649
+      internalID: 1225678020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 419
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f2f35c32f30574bbe79fdb0f3408de
+      internalID: -678752096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 419
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1de98277053ba4e91ee19a41d3f52d
+      internalID: 116728062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 419
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795299910f6887e46a3ebd5c25d9ffca
+      internalID: -1990674889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_53
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 412
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10dffbb957dd4c449145d36fbac206a
+      internalID: -965521509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 396
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c4b430dcf06114e883124ac89deb50
+      internalID: -1845120900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 396
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1612ccd889daea948aef2c5db001b211
+      internalID: 209272078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 380
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984b178318d1aa9478b1ef7f9ab09f48
+      internalID: 2115169198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_77
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 380
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010caf58980e3a94d874ff893d9dfcf8
+      internalID: 1514531387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 364
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20a4398c5c0e0e4eb0f9800559fb9b1
+      internalID: -1248079876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_89
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 364
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73aec93d398d79499a11282d3b2c6ea
+      internalID: 2065881705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 348
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131376dd4f3ee8a46bdbcc72c077a370
+      internalID: 82314219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_100
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 348
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9fcd5cfd2cf1e4cb79114c22b08436
+      internalID: -1474296265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_101
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 348
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f804dc0a7ed4444688dff1a6295da19
+      internalID: 1275894104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a75a48f468923d44ab8e2c8a51ff51f
+      internalID: -1537057571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_109
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 336
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0ee205c3ffb8844a048f6b349e5aa7
+      internalID: -807269502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bb85f8b93412a47a221ff8672164e0
+      internalID: 2123543451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c08848862637d94484e68484b375084
+      internalID: -73627620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae7e94e3d9848c45a1046872cc0e72a
+      internalID: -598417641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_113
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 336
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2ffd4bc495dff49b8b6908a3f1acee
+      internalID: -899503802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 460
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b525c07e0b5db4e880a3631e03533e
+      internalID: 1871134575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 444
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66592524c67274478ff37e71a3d1d41
+      internalID: -519411468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 444
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa2725675c530f4387c6feaa0108672
+      internalID: -1269668898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 460
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e715e5a6f0afcb74fb3b4c6c68731e0f
+      internalID: 1610418404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 467
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf0902ac4cf7e142ac5148831900266
+      internalID: -1225337297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 467
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f686e68e52cfe264db9c8bfea6d4c00d
+      internalID: 738172349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 431
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a347453698c835649af606b569b621d2
+      internalID: 1043205512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 431
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c3cea63010f4b42a6ec8ce9ecdac78
+      internalID: -179005720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 431
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24ad98a24b9c1044bc57406109b1575
+      internalID: 1145498520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 460
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25b6603cf844164781916233570e737
+      internalID: -1806802894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_10
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 460
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec625ef4763fa64e8cac4446a4d2488
+      internalID: -82179978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 348
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7287072508137c34c91eab426084e4e7
+      internalID: 1780539329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 412
+        width: 12
+        height: 19
+      alignment: 9
+      pivot: {x: 0.517072, y: 0.86657554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb2b51d53b09e8438f6474188c44c4b
+      internalID: -1100662452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 396
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9f3a07c7760604d9859078b921bd56
+      internalID: 200178325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 380
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d3ae1508431dd4bbbd6767996dac6a
+      internalID: 255036239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 364
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed02ed851e915940a08bafc3189d475
+      internalID: 312008743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 347
+        width: 12
+        height: 16
+      alignment: 9
+      pivot: {x: 0.41464743, y: -0.293787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e826839143285428dfc63f0800f948
+      internalID: 20395046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df52c8dd184b65a43a622be7565b15c1
+      internalID: 420515706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 336
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd16e9a367b4ea0428b586ee1196e3e6
+      internalID: 1910962972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 336
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726d80134075c1648ad5556ba04a3425
+      internalID: 1027381525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563068c354c641949849ce4580de4d82
+      internalID: 2044940785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70a26c609c1efa4abff78aef2db7a2d
+      internalID: -1078086676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_47
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 336
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171df8df562b955429ec0df5dcd88125
+      internalID: 2082506543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_54
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 348
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925c5269a1dd8f14e8b36f95d68cd866
+      internalID: -879179772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_55
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 364
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5004f7fe54938e4c97f77dda5837c76
+      internalID: -1791313510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_56
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 380
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3769992cae9cd34dae0fc4548d57be3
+      internalID: -117094826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_57
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 396
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc854aef4229064a8eb782e255ed6a4
+      internalID: 468987073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_58
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 412
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93573d38b1b24444a7ffbf964e9b3d3
+      internalID: 1868223445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: school floor and wall_59
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 419
+        width: 71
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ec4c0ae1edd5a4289aa015d26eb228
+      internalID: -577845611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      school floor and wall_0: 1871134575
+      school floor and wall_1: -519411468
+      school floor and wall_10: -82179978
+      school floor and wall_100: -1474296265
+      school floor and wall_101: 1275894104
+      school floor and wall_102: 256001661
+      school floor and wall_103: 515233082
+      school floor and wall_104: 777094852
+      school floor and wall_105: 2106761171
+      school floor and wall_106: 47006453
+      school floor and wall_107: -1231509972
+      school floor and wall_108: -1537057571
+      school floor and wall_109: -807269502
+      school floor and wall_11: 1780539329
+      school floor and wall_110: 2123543451
+      school floor and wall_111: -73627620
+      school floor and wall_112: -598417641
+      school floor and wall_113: -899503802
+      school floor and wall_114: 1845159490
+      school floor and wall_115: 1733351105
+      school floor and wall_116: -1807306829
+      school floor and wall_117: -1711783939
+      school floor and wall_118: -507555380
+      school floor and wall_119: -590293801
+      school floor and wall_12: -1399915913
+      school floor and wall_13: 1772062381
+      school floor and wall_14: 880852667
+      school floor and wall_15: 322082020
+      school floor and wall_16: 284993586
+      school floor and wall_17: 1581818694
+      school floor and wall_18: -1227698028
+      school floor and wall_19: -881259776
+      school floor and wall_2: -1269668898
+      school floor and wall_20: 573884108
+      school floor and wall_21: -1100662452
+      school floor and wall_22: 200178325
+      school floor and wall_23: 255036239
+      school floor and wall_24: 406431374
+      school floor and wall_25: -1422648615
+      school floor and wall_26: 1042037366
+      school floor and wall_27: 312008743
+      school floor and wall_28: 20395046
+      school floor and wall_29: -224086812
+      school floor and wall_3: 1610418404
+      school floor and wall_30: -2124688417
+      school floor and wall_31: 462398878
+      school floor and wall_32: -1205607930
+      school floor and wall_33: 420515706
+      school floor and wall_34: 1910962972
+      school floor and wall_35: 1027381525
+      school floor and wall_36: 1412244942
+      school floor and wall_37: 1877522044
+      school floor and wall_38: 1386212175
+      school floor and wall_39: -593422030
+      school floor and wall_4: -1225337297
+      school floor and wall_40: -1662106557
+      school floor and wall_41: -1632506046
+      school floor and wall_42: 1906313690
+      school floor and wall_43: -1288004006
+      school floor and wall_44: -1658577897
+      school floor and wall_45: 2044940785
+      school floor and wall_46: -1078086676
+      school floor and wall_47: 2082506543
+      school floor and wall_48: -1181819952
+      school floor and wall_49: 1225678020
+      school floor and wall_5: 738172349
+      school floor and wall_50: -678752096
+      school floor and wall_51: 116728062
+      school floor and wall_52: -1990674889
+      school floor and wall_53: -965521509
+      school floor and wall_54: -879179772
+      school floor and wall_55: -1791313510
+      school floor and wall_56: -117094826
+      school floor and wall_57: 468987073
+      school floor and wall_58: 1868223445
+      school floor and wall_59: -577845611
+      school floor and wall_6: 1043205512
+      school floor and wall_60: -1845120900
+      school floor and wall_61: 325152858
+      school floor and wall_62: -995005629
+      school floor and wall_63: -1563739259
+      school floor and wall_64: 1232061568
+      school floor and wall_65: 209272078
+      school floor and wall_66: 230739634
+      school floor and wall_67: -2092366632
+      school floor and wall_68: -964303069
+      school floor and wall_69: 1338097704
+      school floor and wall_7: -179005720
+      school floor and wall_70: -720418895
+      school floor and wall_71: -1233588512
+      school floor and wall_72: 2115169198
+      school floor and wall_73: 1103364365
+      school floor and wall_74: 1124235041
+      school floor and wall_75: -1439362179
+      school floor and wall_76: 10168794
+      school floor and wall_77: 1514531387
+      school floor and wall_78: -1263808253
+      school floor and wall_79: 1342698315
+      school floor and wall_8: 1145498520
+      school floor and wall_80: 1208260920
+      school floor and wall_81: 576898150
+      school floor and wall_82: 1973074064
+      school floor and wall_83: 1601497
+      school floor and wall_84: -1248079876
+      school floor and wall_85: -1109137148
+      school floor and wall_86: 1094849818
+      school floor and wall_87: 779440526
+      school floor and wall_88: -927916062
+      school floor and wall_89: 2065881705
+      school floor and wall_9: -1806802894
+      school floor and wall_90: -1577516985
+      school floor and wall_91: 1551167234
+      school floor and wall_92: -2035315277
+      school floor and wall_93: -1285325845
+      school floor and wall_94: 1461717136
+      school floor and wall_95: 779040870
+      school floor and wall_96: 82314219
+      school floor and wall_97: -1327051494
+      school floor and wall_98: 1133242154
+      school floor and wall_99: 567427892
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
